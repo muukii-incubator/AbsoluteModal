@@ -1,0 +1,6 @@
+framework module Pods_AbsoluteModal {
+  umbrella header "Pods-AbsoluteModal-umbrella.h"
+
+  export *
+  module * { export * }
+}
